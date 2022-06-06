@@ -1,0 +1,13 @@
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\bin\Debug\AdressBook.exe.config
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\bin\Debug\AdressBook.exe
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\bin\Debug\AdressBook.pdb
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.Form1.resources
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.Properties.Resources.resources
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.exe
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\obj\Debug\AdressBook.pdb
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\bin\Debug\Database1.mdf
+C:\Users\alexi\Desktop\Software C#\AdressBook\AdressBook\bin\Debug\Database1_log.ldf
